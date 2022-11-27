@@ -4,6 +4,6 @@
 class C{
   pulic:
     virtual void ccc()=0;
-}
+};
 
 #endif

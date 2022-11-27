@@ -4,6 +4,6 @@
 class B{
   pulic:
     virtual void bbb()=0;
-}
+};
 
 #endif

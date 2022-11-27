@@ -4,6 +4,6 @@
 class A{
   pulic:
     virtual void aaa()=0;
-}
+};
 
 #endif
