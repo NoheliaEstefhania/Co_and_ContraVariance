@@ -1,5 +1,10 @@
-public abstract class X {
+import java.beans.beancontext.BeanContext;
 
-  public abstract B bbb(B b);
+public class X {
+
+  public B foo(B b){
+  
+    return b;
+  }
 
 }
