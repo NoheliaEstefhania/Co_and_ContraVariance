@@ -2,7 +2,7 @@
 #define A_H
 
 class A{
-  pulic:
+  public:
     virtual void aaa()=0;
 };
 
