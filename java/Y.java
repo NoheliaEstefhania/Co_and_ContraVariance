@@ -1,7 +1,9 @@
 public class Y extends X {
 
-  public B foo(A a) {
-
-    return a;
+  public Bcc foo(Acc a) {
+    a.aaa();
+    System.out.println("X: foo()");
+    Bcc b = new Bcc();
+    return b;
   }
 }

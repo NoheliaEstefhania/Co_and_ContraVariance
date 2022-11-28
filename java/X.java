@@ -2,9 +2,10 @@ import java.beans.beancontext.BeanContext;
 
 public class X {
 
-  public B foo(B b){
-  
-    return b;
+  public Bcc foo(Bcc b){
+    b.bbb();
+    Bcc bb = new Bcc();
+    System.out.println("Y: foo()");
+    return bb;
   }
-
 }
