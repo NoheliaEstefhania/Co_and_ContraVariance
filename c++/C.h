@@ -4,7 +4,7 @@
 
 class C: public B{
   public:
-    virtual void ccc()=0;
+    virtual void ccc();
 };
 
 #endif

@@ -3,7 +3,7 @@
 
 class A{
   public:
-    virtual void aaa()=0;
+    virtual void aaa();
 };
 
 #endif
