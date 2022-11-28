@@ -2,12 +2,12 @@ public class Bcc implements B{
 
     @Override
     public void aaa() {
-        System.out.println("aaa() desde Bcc");
+        System.out.println("Bcc.aaa()");
     }
 
     @Override
     public void bbb() {
-        System.out.println("bbb() desde Bcc");
+        System.out.println("Bcc.bbb()");
     }
     
 }

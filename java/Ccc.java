@@ -2,17 +2,17 @@ public class Ccc implements C{
 
     @Override
     public void bbb() {
-        System.out.println("bbb() desde Ccc");
+        System.out.println("Ccc.bbb()");
     }
 
     @Override
     public void aaa() {
-        System.out.println("aaa() desde Ccc");
+        System.out.println("Ccc.aaa()");
     }
 
     @Override
     public void ccc() {
-        System.out.println("ccc() desde Ccc");
+        System.out.println("Ccc.ccc()");
     }
     
 }
