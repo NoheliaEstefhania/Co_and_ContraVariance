@@ -3,5 +3,5 @@ public class Main {
     X y = new Y();
     B c = new Ccc();
     y.foo(c);
-  }
+  }     
 }
