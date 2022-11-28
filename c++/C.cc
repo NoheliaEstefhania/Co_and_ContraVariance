@@ -3,13 +3,13 @@
 using namespace std;
 
 void A::aaa(){
-  cout<<"aaa() en C\n";
+  cout<<"C.aaa()\n";
 }
 
 void B::bbb(){
-  cout<<"bbb() en C\n";
+  cout<<"C.bbb() en C\n";
 }
 
 void C::ccc(){
-  cout<<"ccc() en C\n";
+  cout<<"C.ccc() en C\n";
 }

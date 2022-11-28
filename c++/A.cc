@@ -3,5 +3,5 @@
 using namespace std;
 
 void A::aaa(){
-  cout<<"aaa() en A\n";
+  cout<<"A.aaa()\n";
 }

@@ -3,9 +3,9 @@
 using namespace std;
 
 void A::aaa(){
-  cout<<"aaa() en B\n";
+  cout<<"B.aaa()\n";
 }
 
 void B::bbb(){
-  cout<<"bbb() en B\n";
+  cout<<"B.bbb()\n";
 }

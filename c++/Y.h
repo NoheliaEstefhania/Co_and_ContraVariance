@@ -5,7 +5,11 @@
 
 class Y:public X {
   public:
-    B foo(A);
+    B *foo(B *b){
+      b->bbb();
+      B *c = new C;
+      return c;
+    }
 };
 
 #endif
